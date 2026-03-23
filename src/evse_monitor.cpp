@@ -41,7 +41,7 @@
 #define EVSE_HEATBEAT_INTERVAL              5
 #endif
 #ifndef EVSE_HEARTBEAT_CURRENT
-#define EVSE_HEARTBEAT_CURRENT              6
+#define EVSE_HEARTBEAT_CURRENT              3
 #endif
 
 #define EVSE_MONITOR_STATE_DATA_READY         (1 << 0)
